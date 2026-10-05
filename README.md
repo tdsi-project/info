@@ -22,7 +22,7 @@ You will take a real image or signal processing problem from a list of topics an
 |---|---|---|
 | Intermediate | Pitch | 5 min + questions, 1 slide |
 | Intermediate | Report | 2 pages: problem, related work, planned method, baseline results |
-| Final | GitHub repository | Code, README, environment file, demo notebook (see [project template](../project-template/README.md)) |
+| Final | GitHub repository | Code, README, environment file, demo notebook (see [project template](https://github.com/tdsi-project/project-template)) |
 | Final | Report | 4 pages, extending the intermediate report (not a new document) |
 | Final | Report appendix | Use of AI tools + CO₂ and energy footprint |
 | Final | Presentation + live demo | 15 min + 10 min individual questions |
