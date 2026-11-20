@@ -20,7 +20,7 @@ You will take a real image or signal processing problem from a list of topics an
 
 | When | Deliverable | Format |
 |---|---|---|
-| Intermediate | Pitch | 5 min + questions, 1 slide |
+| Intermediate | Pitch | 5 min + questions, up to 3 slides |
 | Intermediate | Report | 2 pages: problem, related work, planned method, baseline results |
 | Final | GitHub repository | Code, README, environment file, demo notebook (see [project template](https://github.com/tdsi-project/project-template)) |
 | Final | Report | 4 pages, extending the intermediate report (not a new document) |
@@ -59,6 +59,28 @@ Undisclosed use, or inability to explain submitted work, is handled as a lack of
 - Consider using small or downscaled datasets, early stopping, fixed seeds, and cached results. Avoid running long training phases, in particular at the beginning of the project.
 - **Report your footprint** in an appendix to the final report: hardware, total runtime, estimated energy use and CO₂ emissions (for example, using CodeCarbon or ecologits for LLM API usage), and the steps you took to reduce it. Estimates are approximate, which is acceptable; state their limitations (for instance, water use depends on the data centre and is not measured by these tools).
 - You are not penalised for needing more compute, only for not measuring or not justifying it.
+
+## 6. Pitch guidelines
+
+The pitch is a short checkpoint to make sure you understand the goal of your project and have identified the first steps to reach it. We expect a clear plan, not a finished method.
+
+**Format**
+- **5 minutes**, strictly timed, followed by questions.
+- **Up to 3 slides** (PDF). Send the PDF by email, by 27 November at 12:00.
+- Any group member may present, but **every member must be able to answer questions**.
+
+**What your slides and talk must cover**
+1. **Problem:** what is the input, what is the expected output, and why is it hard? Show one example (image or signal).
+2. **Data:** which dataset, its size, and how you split it into train/validation/test.
+3. **Baseline:** which existing method you will use as a reference, and where the code comes from (library, paper repository, your own implementation).
+4. **Evaluation:** which metrics you will use, and why they suit the task.
+5. **Planned improvement:** what you intend to try beyond the baseline, and what you expect it to change.
+
+**What we look for**
+- The problem is clearly stated.
+- Respect timing. You will be stopped at 5 minutes.
+- The baseline and metrics are concrete (named method, named dataset, named metric).
+- Answers to questions show that every member understands the project.
 
 ## 7. Live demo protocol
 
