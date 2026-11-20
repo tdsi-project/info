@@ -4,7 +4,7 @@
 
 **Topic choice:** 9 October 2026
 
-**Pitch:** 18 December 2026
+**Pitch:** 27 November 2026, at 2pm
 
 **Final evaluation:** 29 January 2027
 
